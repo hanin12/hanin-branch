@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="buAge">Get My Age</string>
+    <string name="getyourbirth">Enter year of birth</string>
+    <string name="txtlabelage">Your Age is 0 Year</string>
+    <string name="getlabel">get your age</string>
+</resources>
